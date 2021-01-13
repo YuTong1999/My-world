@@ -1,0 +1,25 @@
+[
+{
+  "directory": "D:/桌面/2017301020 候雨彤 源代码/build",
+  "command": "C:\\PROGRA~2\\MICROS~2\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1424~1.283\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP  -I..\\include -ID:\\vcpkg\\installed\\x64-windows\\include  /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1   /FoCMakeFiles\\main.dir\\InitShader.cpp.obj /FdTARGET_COMPILE_PDB /FS -c \"D:\\桌面\\2017301020 候雨彤 源代码\\InitShader.cpp\"",
+  "file": "D:/桌面/2017301020 候雨彤 源代码/InitShader.cpp"
+},
+
+{
+  "directory": "D:/桌面/2017301020 候雨彤 源代码/build",
+  "command": "C:\\PROGRA~2\\MICROS~2\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1424~1.283\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP  -I..\\include -ID:\\vcpkg\\installed\\x64-windows\\include  /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1   /FoCMakeFiles\\main.dir\\Mesh_Painter.cpp.obj /FdTARGET_COMPILE_PDB /FS -c \"D:\\桌面\\2017301020 候雨彤 源代码\\Mesh_Painter.cpp\"",
+  "file": "D:/桌面/2017301020 候雨彤 源代码/Mesh_Painter.cpp"
+},
+
+{
+  "directory": "D:/桌面/2017301020 候雨彤 源代码/build",
+  "command": "C:\\PROGRA~2\\MICROS~2\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1424~1.283\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP  -I..\\include -ID:\\vcpkg\\installed\\x64-windows\\include  /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1   /FoCMakeFiles\\main.dir\\main.cpp.obj /FdTARGET_COMPILE_PDB /FS -c \"D:\\桌面\\2017301020 候雨彤 源代码\\main.cpp\"",
+  "file": "D:/桌面/2017301020 候雨彤 源代码/main.cpp"
+},
+
+{
+  "directory": "D:/桌面/2017301020 候雨彤 源代码/build",
+  "command": "C:\\PROGRA~2\\MICROS~2\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1424~1.283\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP  -I..\\include -ID:\\vcpkg\\installed\\x64-windows\\include  /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1   /FoCMakeFiles\\main.dir\\mesh.cpp.obj /FdTARGET_COMPILE_PDB /FS -c \"D:\\桌面\\2017301020 候雨彤 源代码\\mesh.cpp\"",
+  "file": "D:/桌面/2017301020 候雨彤 源代码/mesh.cpp"
+}
+]
